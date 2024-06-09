@@ -15,7 +15,7 @@
 #include "setup_adc.h"
 #include "setup_motor.h"
 #include "uart.h"
-
+#include <stdio.h>
 
 int main(void)
 {
